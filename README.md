@@ -287,7 +287,7 @@ Instituto Profesional San Sebastián.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/6020f09b-ef75-4a6e-b1b8-618706a2b1a9"
+    src="https://github.com/user-attachments/assets/7d16143c-f5c5-48bc-9802-d650950e0157"
     alt="Captura del proyecto"
     width="700"
   />
