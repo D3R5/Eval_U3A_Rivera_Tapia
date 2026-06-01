@@ -282,3 +282,13 @@ Integrantes:
 Proyecto desarrollado para la Evaluación Sumativa Unidad 3.
 
 Instituto Profesional San Sebastián.
+
+## Imágen del sitio web
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/6020f09b-ef75-4a6e-b1b8-618706a2b1a9"
+    alt="Captura del proyecto"
+    width="700"
+  />
+</p>
