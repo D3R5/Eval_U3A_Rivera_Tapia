@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Landing page desarrollada con React para el Centro de Desarrollo de Negocios Santiago de SERCOTEC.
+Landing page desarrollada con Vite+React para el Centro de Desarrollo de Negocios Santiago de SERCOTEC.
 
 La aplicación permite visualizar información institucional, servicios, testimonios y preguntas frecuentes obtenidas dinámicamente desde una API simulada mediante JSON Server. Además, incorpora un panel administrativo para la gestión de servicios mediante operaciones CRUD.
 
