@@ -1,0 +1,54 @@
+{
+  "about": [
+    {
+      "id": "1",
+      "title": "Centro de Negocios Santiago",
+      "description": "El Centro de Desarrollo de Negocios Sercotec Santiago es un espacio de apoyo estratégico donde micro, pequeñas empresas y cooperativas reciben asesoría técnica, capacitación y vinculación personalizada y sin costo, a través de un equipo experto con foco en resultados."
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Marketing Digital",
+      "description": "Mejora tu presencia online.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+    },
+    {
+      "id": "2",
+      "title": "Asesoría Financiera",
+      "description": "Optimiza la gestión financiera.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f"
+    },
+    {
+      "title": "Capacitación Empresarial",
+      "description": "Fortalece las habilidades de tu equipo.",
+      "image": "https://plus.unsplash.com/premium_photo-1661763874747-405eb7388c58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwYWNpdGFjaW9ufGVufDB8fDB8fHww",
+      "id": "GsAPpaHxamU"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Juan Pérez",
+      "comment": "Excelente atención."
+    },
+    {
+      "id": "2",
+      "name": "María Soto",
+      "comment": "Muy buenas asesorías."
+    }
+  ],
+  "faq": [
+    {
+      "id": "1",
+      "question": "¿Los servicios tienen costo?",
+      "answer": "No, son gratuitos."
+    },
+    {
+      "id": "2",
+      "question": "Cuál es el límite de asesorías por empresa?",
+      "answer": "No hay límite, pero se recomienda no abusar del servicio para que otros también puedan acceder."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
